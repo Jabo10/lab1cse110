@@ -4,7 +4,7 @@
 ## Level 1
 ### Level 2
 #### Level 3
-- styling text:
+styling text:
 - **Bold**
 - *italicized*
 - ~~Line through~~
