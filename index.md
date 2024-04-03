@@ -9,7 +9,9 @@ styling text:
 - *italicized*
 - ~~Line through~~
 - **combination**
-* type of quoting:
+
+
+Types of quoting:
  > Blockquote 
   >
   > ending here
