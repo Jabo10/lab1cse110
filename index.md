@@ -2,9 +2,9 @@
 
 # headers
 ## Level 1
-### Level 3
-#### Level 4
-styling text:
+### Level 2
+#### Level 3
+- styling text:
 - **Bold**
 - *italicized*
 - ~~Line through~~
