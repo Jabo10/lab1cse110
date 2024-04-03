@@ -15,8 +15,9 @@ type of quoting:
   > ending here
 
 - `inline code`
-- **External Links**:
+ **Links**:
  ```markdown
   [GitHub](https://github.com) 
-- section link
+
+-section link
     - [Go to Level 1](#level-1)
