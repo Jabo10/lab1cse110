@@ -9,13 +9,14 @@ styling text:
 - *italicized*
 - ~~Line through~~
 - **combination**
-  - > Blockquote 
-    >
-    > ending here
+type of quoting:
+- > Blockquote 
+  >
+  > ending here
 
 - `inline code`
-- *External Links**:
+- **External Links*:
 - ```markdown
 -  [GitHub](https://github.com) 
 -  section link
- - [Go to Heading Level 1](#level-1)
+ - [Go to Level 1](#level-1)
