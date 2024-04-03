@@ -1,7 +1,7 @@
 ![Image of clouds](/images/clouds.png)
-headers
-# Level 1
-## Level 2
+
+# headers
+## Level 1
 ### Level 3
 #### Level 4
 styling text:
@@ -19,7 +19,7 @@ Types of quoting:
 * **Links**:
   [GitHub](https://github.com)
 - section link
-  - [Go to Level 1](#level-1)
+  - [Go to Headers](#headers)
 
 
 [My README](README.md)
