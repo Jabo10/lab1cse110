@@ -9,15 +9,12 @@ styling text:
 - *italicized*
 - ~~Line through~~
 - **combination**
-type of quoting:
-- > Blockquote 
+* type of quoting:
+ > Blockquote 
   >
   > ending here
-
-- `inline code`
- **Links**:
- ```markdown
-  [GitHub](https://github.com) 
-
--section link
-    - [Go to Level 1](#level-1)
+* inline code `Links`:
+* **Links**:
+  [GitHub](https://github.com)
+- section link
+  - [Go to Level 1](#level-1)
