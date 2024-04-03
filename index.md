@@ -8,4 +8,4 @@ styling text
 **Bold**
 *italicized*
 ~~Line through~~
-**combination*
+*combination*
