@@ -16,7 +16,7 @@ type of quoting:
 
 - `inline code`
 - **External Links**:
-- ```markdown
--  [GitHub](https://github.com) 
--  section link
- - [Go to Level 1](#level-1)
+ ```markdown
+  [GitHub](https://github.com) 
+- section link
+    - [Go to Level 1](#level-1)
