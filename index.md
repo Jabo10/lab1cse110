@@ -22,7 +22,7 @@ Types of quoting:
 * **Links**:
   [GitHub](https://github.com)
 - section link
-  - [Go to Headers](#Jeremy-Abondano)
+  - [Go to my name](#Jeremy-Abondano)
 
 
 [My README](README.md)
